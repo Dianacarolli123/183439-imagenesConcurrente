@@ -1,0 +1,16 @@
+NOTA IMPORTANTE, INSTALAR LA SIGUIENTE LIBRERÍA 
+python3 -m pip install imgurpython
+O
+python -m pip install imgurpython
+
+Crear la misma app con subprocesos múltiples 
+Multithreading
+Nota , integrar TreadPoolExecutor
+Crear la descarga con 10 hilos
+Ver el tiempo de descarga de las imágenes y compararlo con lo anterior
+Explicar su funcionamiento
+
+Crear la misma app con multiprocesamiento 
+Multiprocessing con algo llamado Pool
+Comparar los tiempos de descarga con los dos anteriores
+Explicar su funcionamiento
